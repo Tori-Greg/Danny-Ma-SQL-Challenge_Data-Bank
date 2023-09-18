@@ -3,6 +3,8 @@
 ![](Image.png)
 
 # Table of Contents
+- [Introduction](#Introduction)
+- [Entity Relationship Diagram](#Entity-Relationship-Diagram)
 
 ## Introduction
 There is a new innovation in the financial industry called Neo-Banks: new aged digital only banks without physical branches. 
