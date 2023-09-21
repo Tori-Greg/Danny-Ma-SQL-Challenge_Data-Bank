@@ -4,6 +4,8 @@
 - [A. Customer Nodes Exploration](#A.-Customer-Nodes-Exploration)
 - [B. Customer Transactions](#B.-Customer-Transactions)
 
+---
+
 # A. Customer Nodes Exploration 
 #### 1. How many unique nodes are there on the Data Bank system?
 
@@ -110,6 +112,7 @@
 | 4         | Asia        |  -15        |  -6           |  -1
 | 5         | Europe      |  -15        |  -6           |  -1
 
+---
 
 # B. Customer Transactions
 
