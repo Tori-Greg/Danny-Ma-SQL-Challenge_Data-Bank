@@ -1,5 +1,9 @@
 # SQL Challenge Week 4 _ Data Bank
 
+# Table of Contents:
+- [A. Customer Nodes Exploration](#A.-Customer-Nodes-Exploration)
+- [B. Customer Transactions](#B.-Customer-Transactions)
+
 # A. Customer Nodes Exploration 
 #### 1. How many unique nodes are there on the Data Bank system?
 
