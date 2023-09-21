@@ -5,6 +5,7 @@
 # Table of Contents
 - [Introduction](#Introduction)
 - [Entity Relationship Diagram](#Entity-Relationship-Diagram)
+- [Business Questions and Solutions](https://github.com/Tori-Greg/Danny-Ma-SQL-Challenge_Data-Bank/blob/main/Business%20Questions%20and%20Solutions.md)
 
 ## Introduction
 There is a new innovation in the financial industry called Neo-Banks: new aged digital only banks without physical branches. 
